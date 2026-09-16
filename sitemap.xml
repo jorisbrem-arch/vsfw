@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.vsfw.nl/</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://www.vsfw.nl/zorg-en-welzijn.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://www.vsfw.nl/kunst-en-cultuur.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://www.vsfw.nl/cultuur-en-erfgoed.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://www.vsfw.nl/natuur-en-milieu.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://www.vsfw.nl/sport-en-bewegen.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://www.vsfw.nl/maatschappelijke-projecten.html</loc><changefreq>monthly</changefreq></url>
+  <url>
+    <loc>https://www.vsfw.nl/</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/zorg-en-welzijn.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/onderwijs.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/kunst-en-cultuur.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/cultuur-en-erfgoed.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/natuur-en-milieu.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/maatschappelijke-projecten.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/sport-en-beweging.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/diensten.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/werkwijze.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/over-mij.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/tarieven.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vsfw.nl/contact.html</loc>
+    <lastmod>2026-09-16</lastmod>
+  </url>
 </urlset>
